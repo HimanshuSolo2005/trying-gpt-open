@@ -7,7 +7,7 @@
 ---
 
 ## Tried using Ollama's gpt-oss:20b
-- Was a bit slow to respond, I mean Reaoning started a bit later, but it's an open-souce Model, definitely took its time, so it is what it is....👍
+- Was a bit slow to respond, I mean Reaoning started a bit later, but it's an open-souce Model, definitely took its time, so it is what it is....👍[May be because of absence of GPU in my Machine, It is designed to work smooth with GPUs.
 
 <img width="1903" height="579" alt="image" src="https://github.com/user-attachments/assets/213a08b0-4d26-4831-864a-112aa3a50d36" />
 <img width="1719" height="479" alt="image" src="https://github.com/user-attachments/assets/c0a2f6a5-d0c6-46cd-af8f-b68c338e0cf7" />
